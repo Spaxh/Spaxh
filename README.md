@@ -1,10 +1,10 @@
 ```js
-import Profile from "SanjaySunil"
+import Profile from "wendelhammes"
 
 class Bio extends Profile {
-  name    = "Sanjay Sunil";
-  email   = "sanjaysunil@protonmail.com";
-  website = "https://sanjaysunil.net";
+  name    = "Wendel Hammes";
+  email   = "hello@wendelhammes.ga";
+  website = "https://wendelhammes.ga";
 }
 
 class Skills extends Profile {
