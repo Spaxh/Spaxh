@@ -1,8 +1,8 @@
 ```js
-import Profile from "wendelhammes"
+import Profile from "spaxh"
 
 class Bio extends Profile {
-  name    = "Wendel Hammes";
+  name    = "Spaxh";
   email   = "hello@wendelhammes.ga";
   website = "https://wendelhammes.ga";
 }
